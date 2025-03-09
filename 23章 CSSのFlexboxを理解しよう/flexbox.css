@@ -4,15 +4,14 @@
   background-color: lightcyan;
 }
 .flexbox-item {
+  flex: 1 1 200px;
   padding: 5px;
   margin: 5px;
   background-color: orange
 }
 #item01 {
-  flex-basis: 150px;
 }
 #item02 {
-  flex-basis: 25%;
 }
 #item03 {
 }
