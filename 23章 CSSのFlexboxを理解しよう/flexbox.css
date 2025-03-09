@@ -9,26 +9,19 @@
   background-color: orange
 }
 #item01 {
-  order: 5;
 }
 #item02 {
-  order: 6;
 }
 #item03 {
-  order: 7;
 }
 #item04 {
-  order: 8;
 }
 #item05 {
-  order: 1;
 }
 #item06 {
-  order: 2;
 }
 #item07 {
-  order: 3;
+  flex-grow: 1;
 }
 #item08 {
-  order: 4;
-}
+  flex-grow: 2;
